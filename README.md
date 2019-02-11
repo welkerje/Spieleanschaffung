@@ -3,8 +3,8 @@
 | Spielname | Beschreibung | Preis Amazon | Preis Händler |
 |-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|---------------|
 | Gloomhaven | Gloomhaven ist ein Fantasy-Brettspiel mit Rollenspiel-Elementen, das durch Crowdfunding-Kampagnen des Entwicklers Isaac Childres realisiert wurde. Merkmal des Spiels ist auch, dass einige Entscheidungen der Spieler zu dauerhaften Veränderungen im Spielgeschehen führen („Legacy-Mechanismus“). | 160€ |  |
-| Magic Maze | Es handelt sich um ein Spiel im Stil eines Dungeon Crawlers. Während des Spiels muss also ein unbekanntes Terrain erkundet werden, in dem der Spielergruppe spezifische Aufgaben gestellt werden. | 23€ |  |
-| Magic Maze - Maximum Security |  | 22€ |  |
+| Magic Maze | Nachdem beim letzten Abenteuer den Helden all ihr Equipment und Gold abhanden gekommen ist, muss nun Neues her. Also entscheiden sie sich ein Einkaufszentrum auszurauben. Der Plan lautet reingehen, jeder klaut einen spezifischen Gegenstand und dann wieder raus und zwar schnell. Kooperatives Spiel in dem jeder Spieler jeden Charakter bewegen kann, aber sich niemand über die Pläne der Anderen informieren kann, denn sprechen ist hier verboten. 1-8 Spieler| 23€ |  |
+| Magic Maze - Maximum Security | Oh nein, das Einkaufszentrum hat seine Security um Wachen und Kameras verstärkt! Führt einige neue Mechaniken ein, wie Luftschächte, Kontrollräume, Sensoren, Schlösser etc. | 22€ |  |
 | Dominion - Blütezeit |  | 36€ |  |
 | Quacksalber von Quedlinburg | Thematisch geht es bei diesem Spiel um einen Wettstreit von Wunderheilern, die auf dem Basar von Quedlinburg ihre Tränke zusammenbrauen und anbieten. Das Spiel wird dabei als „Bag-Building-Spiel“ bezeichnet und nutzt entsprechend einen abgewandelten Deck-Building-Mechanismus als zentrale Spielmechanik, kombiniert mit einem „Push-your-luck“-Element („Fordere dein Glück heraus“). | 25€ |  |
 | Azul | Azul ist ein Legespiel des deutschen Spieleautors Michael Kiesling, bei dem es darum geht, die Wände des portugiesischen Königspalastes in Evora nach dem Vorbild der südspanischen Alhambra mit prachtvollen Fliesen zu verzieren. | 28€ |  |
@@ -17,7 +17,9 @@
 | Mikado |  | 5€ |  |
 | Jenga |  | 10€ |  |
 | Catan - Seefahrer Erweiterung |  | 21€ |  |
-| Bargain Quest |  |  |  |
-| Red Dragon Inn |  |  |  |
+| Bargain Quest | Ein Spiel über Abenteuer und Kapitalismus. Spieler versetzen sich in die Rolle eines Ladenbesitzers in einer typischen Fantasy RPG Welt und versuchen durch die besten Schaufenster mit den epischsten Waffen die reichsten Helden in ihren Laden zu locken. Die Helden ziehen dann in den Kampf und können durch ihre Heldentaten dem letztem Laden in dem sie eingekauft haben Geld und guten Ruf gewinnen. |  |  |
+| Red Dragon Inn | Nach dem Dungeon Crawlen treffen sich die Helden im Red Dragon Inn um sich dort gegenseitig unter den Tisch zu trinken. Kartenspiel in dem jeder Held sein eigenes, angepasstes Deck hat um dessen individuelle Fähigkeiten zu unterstreichen. Viele Erweiterungen für neue Charaktere mit noch fancygeren Skills. Grundspiel reicht für 2-4 Spieler  |  |  |
+| Arkham Horror: The Card Game | Kooperatives Kartenspiel für 1-2 Spieler im Arkham Horror Universum (Cthulhu und so). Jeder Spieler spielt einen Charakter in der Welt und stellt sein eigenes Deck zusammen um diesen Abenteurer zu reflektieren. Hat Kampagne in welcher Aktionen in frühen Missionen auch später Auswirkungen zeigen können.|  |  |
+| Pandemic Legacy |  |  |  |
 
-Summe aktuell: **458,50€**
+Summe aktuell: **458,50€+**
